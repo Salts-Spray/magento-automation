@@ -19,7 +19,7 @@ This project automates the sign-up and sign-in flow for [Magento](https://magent
 
 ```bash
 git clone https://github.com/Salts-Spray/magento-automation.git
-cd magento-test-automation
+cd magento-automation
 ```
 
 ### Install Dependencies
